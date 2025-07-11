@@ -3,7 +3,7 @@ import path from "path"
 import fs from "fs"
 
 // Get the data.json file path
-const dataPath = path.join(process.cwd(), "lib", "data.json")
+const dataPath = path.join(process.cwd(), "public", "data.json")
 
 // Helper function to read data
 function readNewsData() {

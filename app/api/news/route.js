@@ -4,8 +4,8 @@ import path from "path"
 
 export async function GET() {
   try {
-    // Read data.json from lib directory
-    const dataPath = path.join(process.cwd(), 'lib', 'data.json')
+    // Read data.json from public directory
+    const dataPath = path.join(process.cwd(), 'public', 'data.json')
     const fileContents = fs.readFileSync(dataPath, 'utf8')
     const newsArray = JSON.parse(fileContents)
     
