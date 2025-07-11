@@ -1,0 +1,38 @@
+{
+  "header": {
+    "title": "The News Island",
+    "subscribers": "5,810",
+    "nav": {
+      "world": "World",
+      "business": "Business",
+      "lifestyle": "Lifestyle"
+    }
+  },
+  "marquee": {
+    "breaking": "Breaking News → Climate Summit Reaches Historic Agreement. Tech Giants Announce AI Safety Protocols. Global Markets Show Strong Recovery Signs."
+  },
+  "home": {
+    "featured": "Featured",
+    "latestStories": "Latest Stories",
+    "readMore": "Read more →",
+    "minRead": "min read",
+    "hoursAgo": "hours ago"
+  },
+  "newsDetail": {
+    "share": "Share",
+    "bookmark": "Bookmark",
+    "joinDiscussion": "Join the discussion",
+    "category": "Category",
+    "comments": "comments"
+  },
+  "footer": {
+    "copyright": "© 2025",
+    "allRightsReserved": "All rights reserved."
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The page you are looking for does not exist.",
+    "newsNotFound": "This News with {newsId} id was not found!",
+    "backHome": "Back to Home"
+  }
+} 
